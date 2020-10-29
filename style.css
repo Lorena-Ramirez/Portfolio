@@ -1,19 +1,20 @@
-.navbar-custom{
-    background-color : #f9dde1;
-} 
-
-.navbar-custom .navbar-brand,
-.navbar-custom .navbar-text {
-    background-color: white;
+.navbar-light .navbar-brand,
+.navbar-light .navbar-text {
+    background-color: white; 
     font-family: 'BioRhyme', serif;
     color: black
     
 }
 
-.navbar-custom .navbar-nav .nav-link {
+.navbar-light .navbar-nav .nav-link {
     font-family: 'Space Mono', monospace; 
     color: black;
 }
+
+
+ 
+
+
 /* font-family: 'BioRhyme', serif;
 font-family: 'Space Mono', monospace; */
 
