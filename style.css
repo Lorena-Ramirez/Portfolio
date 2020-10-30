@@ -9,7 +9,7 @@ body{
     
 }
 
-.navbar-light .navbar-nav .nav-link {
+.navbar-light .navbar-nav .nav-link, p{
     font-family: 'Space Mono', monospace; 
     color: black;
 }
@@ -32,6 +32,7 @@ img{
     width: 350px;
     height: 350px;
 }
+
 
 
  
