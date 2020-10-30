@@ -15,7 +15,7 @@ body{
 }
 
 section{
-    margin: 40px;
+    margin: 30px;
     
   }
 
@@ -32,6 +32,9 @@ img{
     width: 350px;
     height: 350px;
 }
+p {
+    text-indent: 2.0em;
+    }
 
 
 
