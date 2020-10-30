@@ -19,12 +19,16 @@ section{
 
   .my-col{
     background-color: #f9dde1;
-    height: 40%;
+    
   }
-
 
 h1{
     font-family: 'BioRhyme', serif;
+}
+
+img{
+    width: 350px;
+    height: 350px;
 }
 
 
