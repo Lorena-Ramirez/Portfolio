@@ -1,4 +1,5 @@
-.navbar-light .navbar-brand,
+
+
 .navbar-light .navbar-text {
     background-color: white; 
     font-family: 'BioRhyme', serif;
@@ -9,6 +10,15 @@
 .navbar-light .navbar-nav .nav-link {
     font-family: 'Space Mono', monospace; 
     color: black;
+}
+
+.my-container {
+    background-color: #f9dde1;
+    margin: 5%;
+}
+
+h1{
+    font-family: 'BioRhyme', serif;
 }
 
 
