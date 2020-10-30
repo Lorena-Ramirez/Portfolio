@@ -10,7 +10,8 @@ body{
     
 }
 
-.navbar-light .navbar-nav .nav-link, p{
+.navbar-light .navbar-nav .nav-link, p,
+label, button {
     font-family: 'Space Mono', monospace; 
     color: black;
 }
@@ -43,6 +44,8 @@ img{
 p {
     text-indent: 2.0em;
     }
+
+    
 
 
 /* font-family: 'BioRhyme', serif;
