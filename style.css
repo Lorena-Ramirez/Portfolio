@@ -36,7 +36,7 @@ h1:after
     border:2px solid black;
 }
 
-img{
+.image-thumbnail{
     width: 350px;
     height: 350px;
     border: 5px solid black;
