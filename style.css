@@ -12,10 +12,16 @@
     color: black;
 }
 
-.my-container {
+section{
+    margin: 40px;
+    
+  }
+
+  .my-col{
     background-color: #f9dde1;
-    margin: 5%;
-}
+    height: 40%;
+  }
+
 
 h1{
     font-family: 'BioRhyme', serif;
