@@ -37,18 +37,23 @@ h1:after
 }
 
 .image-thumbnail{
-    width: 350px;
-    height: 350px;
+    
     border: 5px solid black;
 }
 p {
     text-indent: 2.0em;
-    }
+  }
 
-    
+  .port-images{
+    width: 85%;
+    height: 85%;
+    border : 1px solid black;
+  }
 
 
-/* font-family: 'BioRhyme', serif;
-font-family: 'Space Mono', monospace; */
+
+
+
+
 
 
