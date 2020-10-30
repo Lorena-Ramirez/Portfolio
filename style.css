@@ -1,6 +1,8 @@
+body{
+    background-image:url("https://marbleunlimitedinc.com/img/blog/background.jpg");
+}
 
-
-.navbar-light .navbar-text {
+.navbar-light .navbar-brand {
     background-color: white; 
     font-family: 'BioRhyme', serif;
     color: black
