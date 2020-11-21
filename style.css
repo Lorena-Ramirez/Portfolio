@@ -23,7 +23,6 @@ section{
 
 .my-col{
     background-color: #f9dde1;
-    
 }
 
 h1{
@@ -65,7 +64,13 @@ p {
 border-color: black;
 }
 
+.portfolio-container{
+    margin: 10px;
+}
 
+.portfolio-text{
+    font-size:20px ;
+}
 
 
 
