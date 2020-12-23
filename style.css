@@ -41,15 +41,17 @@ h1:after{
     border: 5px solid black;
 }
 
-p {
+.bio-text {
     text-indent: 2.0em;
 }
 
-.portfolio-images{
-    width: 85%;
-    height: 85%;
+.projects{
+    height: 95%;
     border : 1px solid black;
-  }
+}
+.ultimutt-picture {
+    height: 370px;
+}
 
 
 .modal-btn{
