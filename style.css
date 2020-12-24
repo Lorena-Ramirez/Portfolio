@@ -17,13 +17,16 @@ label, button {
 }
 
 section{
-    margin: 30px;
+    margin-top: 30px;
+    margin-right:10%;
+    margin-left:10%;
     
 }
 
-.my-col{
+.my-col, .aboutMe-block{
     background-color: #f9dde1;
 }
+
 
 h1{
     font-family: 'BioRhyme', serif;
@@ -52,6 +55,20 @@ h1:after{
 .ultimutt-picture {
     height: 370px;
 }
+.resume-link {
+  color: black;
+  text-decoration: none;
+}
+
+.flex {
+    display:flex;
+    float:right;
+}
+.centered {
+    position: fixed; /* or absolute */
+    top: 50%;
+    left: 50%;
+  }
 
 
 .modal-btn{
